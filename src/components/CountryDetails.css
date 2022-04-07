@@ -1,0 +1,23 @@
+.country-detail{
+    margin-left: 2rem;
+    width: 50%;
+    min-width: 400px;
+}
+
+.country-detail h1{
+    text-align: left;
+}
+
+.country-detail table{
+    width: 100%;
+    text-align: left;
+}
+
+.country-detail tr{
+    border-top: 1px solid rgb(224, 224, 224);
+}
+
+
+  .country-detail td{
+    padding: 0.5rem;
+}
